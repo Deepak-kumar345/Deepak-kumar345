@@ -1,4 +1,4 @@
-# Hi, I'm Deepak Kumar 👋
+# Hey, I'm Deepak Kumar 👋
 
 ### Aspiring Software Engineer | Java Backend Developer
 
