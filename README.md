@@ -1,73 +1,60 @@
-# Hey, I'm Deepak Kumar 👋
+ <div align="center">
 
-### Aspiring Software Engineer | Java Backend Developer
+# 👋 Hi, I'm Deepak Kumar
 
-I'm a Computer Science & Engineering student focused on building practical software with Java, Spring Boot, REST APIs, and MySQL.
+### B.Tech Student | Java Developer in Progress
 
-Currently, I'm strengthening my backend development, DSA, Git/GitHub, AI agents, and cloud skills by building real-world projects.
+*Learning Java, solving problems, and building my software development skills.*
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Deepak--kumar345-181717?style=for-the-badge&logo=github)](https://github.com/Deepak-kumar345)
 
-## 🚀 What I'm Building
-
-- **SkillPilot** — Personal Learning AI Agent
-- **Jewellery Management System** — Full-stack management application
-- **Task Flow** — Task-focused software and automation project
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**
-  
-Java • Python
+- 🎓 B.Tech student learning software development.
+- ☕ Practising Java fundamentals and problem-solving.
+- 🧠 Focusing on OOP, Collections, DSA, and SQL.
+- 🌱 Planning to build backend projects using Spring Boot.
+- 🎯 Goal: become a skilled software engineer.
 
-**Backend**
+## 🛠️ My Learning Stack
 
-Spring Boot • REST APIs • Maven
+![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Database**
+## 📌 Featured Project
 
-MySQL • SQL
+### ☕ [Java Practice](https://github.com/Deepak-kumar345/java-practice)
 
-**Web**
+My hands-on Java repository for practising programming fundamentals, conditional statements, loops, and problem-solving.
 
-HTML • CSS • JavaScript
+## 📊 GitHub Statistics
 
-**Tools**
+<div align="center">
 
-Git • GitHub • VS Code
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak-kumar345&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9)
 
-**Core**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar345&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9)
 
-DSA • DBMS • Operating Systems
+</div>
 
----
+## 🗺️ My Roadmap
 
-## 📚 Currently Learning
-
-- Java Backend Development
-- Spring Boot
-- REST API Development
-- SQL & DBMS
-- Data Structures & Algorithms
-- AI Agents
-- Cloud Technologies
-
----
-
-## 🎯 My Focus
-
-Building strong software engineering fundamentals through consistent coding, real-world projects, hackathons, and hands-on development.
+- [x] Start Java basics
+- [ ] Strengthen Java OOP and Collections
+- [ ] Practise DSA consistently
+- [ ] Learn SQL and databases
+- [ ] Build a Spring Boot project
 
 ---
 
-## 🔗 Connect With Me
+<div align="center">
 
-- [LinkedIn](https://www.linkedin.com/in/deepak-kumar927485377363)
-- [Portfolio](#)
-- [GitHub](https://github.com/Deepak-kumar345)
+**Learn. Build. Improve. Repeat.**
 
----
-
-### 💡 Build. Learn. Improve. Repeat.
+</div>
