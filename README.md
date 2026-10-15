@@ -21,17 +21,22 @@
 - 🎯 Goal: become a skilled software engineer.
 
 ## 🛠️ My Learning Stack
+## 🛠️ My Learning Stack
+
 <p>
-![Java](https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/Java-Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
+
 <p>
-![SQL](https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
+
 <p>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+  <img src="https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 </p>
+
 <p>
-![Git](https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git and GitHub"/>
 </p>
 
 ## 📌 Featured Project
