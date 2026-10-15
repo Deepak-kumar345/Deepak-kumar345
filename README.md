@@ -72,3 +72,14 @@ My hands-on Java repository for practising programming fundamentals, conditional
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar345&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+## 🚀 Featured Repository
+
+### ☕ [Java Practice](https://github.com/Deepak-kumar345/java-practice)
+
+My hands-on Java learning journey — from programming fundamentals and loops to problem-solving.
+
+- 🧠 Regular coding practice
+- 📝 [Topics Tracker](https://github.com/Deepak-kumar345/java-practice/blob/main/TOPICS.md)
+- 📚 [Practice Log](https://github.com/Deepak-kumar345/java-practice/blob/main/PRACTICE-LOG.md)
+- ⚙️ Automated Java compilation check with GitHub Actions
