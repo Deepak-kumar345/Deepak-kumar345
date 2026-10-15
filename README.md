@@ -20,7 +20,7 @@
 - 🌱 Planning to build backend projects using Spring Boot.
 - 🎯 Goal: become a skilled software engineer.
 
-## 🛠️ My Learning Stack
+
 ## 🛠️ My Learning Stack
 
 <p>
