@@ -45,15 +45,6 @@
 
 My hands-on Java repository for practising programming fundamentals, conditional statements, loops, and problem-solving.
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepak-kumar345&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar345&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9)
-
-</div>
 
 ## 🗺️ My Roadmap
 
