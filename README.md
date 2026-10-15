@@ -70,3 +70,14 @@ My hands-on Java repository for practising programming fundamentals, conditional
 **Learn. Build. Improve. Repeat.**
 
 </div>
+
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepak-kumar345&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-kumar345&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
